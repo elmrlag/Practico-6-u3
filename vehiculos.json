@@ -1,0 +1,13 @@
+{
+    "__class__": "usado",
+    "__atributos__": {
+        "modelo": "1",
+        "cPuertas": 2,
+        "Color": "3",
+        "Precio": 4.0,
+        "Marca": "5",
+        "Patente": "6",
+        "Ano": 7,
+        "Km": 8
+    }
+}
